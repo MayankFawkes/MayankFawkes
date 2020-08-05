@@ -1,6 +1,6 @@
 [![Header](https://github.com/MayankFawkes/MayankFawkes/raw/master/header.png "Header")](https://gist.github.com/MayankFawkes)
 
-# Hello, Guys! <img src="https://github.com/MayankFawkes/MayankFawkes/raw/master/wave.gif" width="30px">
+# Hello, Guys! <img src="https://github.com/MayankFawkes/MayankFawkes/raw/master/wave.gif" width="50px">
 
 My name is Mayank Gupta and I'm a computer programmer. I'm from India and currently not working.
 
