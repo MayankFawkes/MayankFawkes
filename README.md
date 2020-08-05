@@ -4,9 +4,6 @@
 
 My name is Mayank Gupta and I'm a computer programmer. I'm from India and currently not working.
 
-## Contact 📧
-<p align='center'>For enquiries, reach out on <a href="https://twitter.com/MayankFawkes">Twitter</a> or on <a href="mailto:mkgupta74d@gmail.com">Email</a>.</p>
-
 ## ⚙ Technologies, Tools & Languages
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Tails-informational?style=flat&logo=Tails&logoColor=white&color=2bbc8a)
@@ -26,6 +23,9 @@ My name is Mayank Gupta and I'm a computer programmer. I'm from India and curren
 ![](https://img.shields.io/badge/CMS-Cloudflare-informational?style=flat&logo=Cloudflare&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google-informational?style=flat&logo=google%20cloud&logoColor=white&color=2bbc8a)
+
+## Contact 📧
+<p>For enquiries, reach out on <a href="https://twitter.com/MayankFawkes">Twitter</a> or on <a href="mailto:mkgupta74d@gmail.com">Email</a>.</p>
 
 ## &#x1f4c8; GitHub Stats
 
