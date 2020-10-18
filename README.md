@@ -27,6 +27,9 @@ My name is Mayank Gupta and I'm a computer programmer. I'm from India and curren
 ## Contact 📧
 <p>For enquiries, reach out on <a href="https://twitter.com/MayankFawkes">Twitter</a> or on <a href="mailto:mkgupta74d@gmail.com">Email</a>.</p>
 
+## Contribute
+<p>I am willing to contribute in some projects</p>
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/MayankFawkes/MayankFawkes">
