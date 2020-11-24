@@ -2,7 +2,7 @@
 
 # Hello, Guys! <img src="https://github.com/MayankFawkes/MayankFawkes/raw/master/wave.gif" width="50px">
 
-My name is Mayank Gupta and I'm a computer programmer. I'm from India and currently not working.
+My name is Mayank Gupta and I'm a computer programmer. I'm from India and currently working on self projects.
 
 ## ⚙ Technologies, Tools & Languages
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=1d1f21)
