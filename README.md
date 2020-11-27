@@ -1,8 +1,3 @@
-<p align='center'>
-  <a href="https://mayankfawkes.xyz">
-    <img src="https://github.com/MayankFawkes/MayankFawkes/raw/master/gif.gif" alt="mayank" width="250" height="250">
-  </a>
-</p>
 
 <h1 align='center'>
   Hello, Guys! <img src="https://github.com/MayankFawkes/MayankFawkes/raw/master/wave.gif" width="50px">
