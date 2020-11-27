@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://mayankfawkes.xyz">
-    <img src="https://github.com/MayankFawkes/MayankFawkes/raw/master/pic.png" alt="mayank" width="250" height="250">
+    <img src="https://github.com/MayankFawkes/MayankFawkes/raw/master/gif.gif" alt="mayank" width="250" height="250">
   </a>
 </p>
 
