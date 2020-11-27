@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://mayankfawkes.xyz">
-    <img src="https://github.com/MayankFawkes/mayankfawkes.xyz/raw/main/img/my.png" alt="mayank" width="300" height="300">
+    <img src="https://github.com/MayankFawkes/mayankfawkes.xyz/raw/main/img/my.png" alt="mayank" width="250" height="250">
   </a>
 </p>
 
@@ -17,11 +17,7 @@
 <h3 align='center'>
   I'm a software developer/DevOps engineer.</br>
 I'm from India, living in Datia and currently working on self projects.
-</h3>
-
-
-
-
+</h3></br>
 <a href="https://github.com/MayankFawkes/MayankFawkes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MayankFawkes&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=000000&hide_border=true" alt="Mayank's GitHub Stats" />
 </a>
