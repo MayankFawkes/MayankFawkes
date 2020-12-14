@@ -14,9 +14,9 @@
 I'm from India, living in Datia and currently working on self projects.
 </h3></br>
 <a href="https://github.com/MayankFawkes/MayankFawkes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MayankFawkes&show_icons=true&line_height=27&count_private=true&hide_border=true" alt="Mayank's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MayankFawkes&show_icons=true&line_height=27&count_private=true&hide_border=true&title_color=58a6ff&bg_color=0d1117&text_color=bdd1cd" alt="Mayank's GitHub Stats" />
 </a>
 <a href="https://github.com/MayankFawkes/MayankFawkes">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=MayankFawkes&layout=compact&card_width=250&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankFawkes&layout=compact&card_width=250&hide_border=true&title_color=58a6ff&bg_color=0d1117&text_color=bdd1cd" />
 </a>
 
