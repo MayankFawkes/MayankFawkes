@@ -5,7 +5,7 @@
 
 <p align='center'>
   <a href="https://mayankfawkes.xyz">
-    <img src="https://github.com/MayankFawkes/MayankFawkes/raw/master/as1.jpg" alt="mayank">
+    <img src="https://github.com/MayankFawkes/MayankFawkes/raw/master/as1.png" alt="mayank">
   </a>
 </p>
 
