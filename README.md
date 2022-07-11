@@ -11,7 +11,7 @@
 
 <h3 align='center'>
   I'm a software developer/DevOps engineer.</br>
-I'm from India, living in Noida and currently working on self projects.
+I'm from India, living in currently noida and currently working on self projects.
 </h3></br>
 <a href="https://github.com/MayankFawkes/MayankFawkes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MayankFawkes&show_icons=true&line_height=27&count_private=true&hide_border=true&title_color=58a6ff&bg_color=0d1117&text_color=bdd1cd" alt="Mayank's GitHub Stats" />
